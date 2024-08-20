@@ -1,0 +1,23 @@
+body{
+    background-image: url("WhatsApp\ Image\ 2024-08-20\ at\ 12.28.47\ AM.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+div{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    color: rgb(5, 5, 155);
+}
+@media (min-width: 700px){
+    .yy{
+
+    }
+    h1{
+        display: flex;
+        justify-content: center;
+    }
+}
